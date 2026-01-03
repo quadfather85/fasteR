@@ -2205,7 +2205,7 @@ It would be good to have better labels on the axes, and maybe smaller
 dots:
 
 ``` r
-> plot(pe2500$age,pe2500$wageinc,col=as.factor(pe2500$sex),
+> plot(prgeng2500$age,prgeng2500$wageinc,col=as.factor(prgeng25002500$sex),
    xlab='age',ylab='wage',cex=0.6)
 ```
 
